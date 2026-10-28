@@ -1,0 +1,2 @@
+Copy your latest resume PDF into this folder and name it resume.pdf. The website buttons expect /resume.pdf.
+c:\Users\Manis\Documents\manish resume.pdf

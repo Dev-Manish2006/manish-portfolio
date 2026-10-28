@@ -4,8 +4,8 @@ export const profile = {
   name: "Manish Kumar Chaurasiya",
   email: "mkofficial9589@gmail.com",
   phone: "+91 8423108763",
-  github: "https://github.com/YOUR_GITHUB_USERNAME",
-  linkedin: "https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE",
+ linkedin: "https://www.linkedin.com/in/manishkrchaurasiya",
+github: "https://github.com/Dev-Manish2006",
   location: "Bhopal, Madhya Pradesh, India",
 };
 
